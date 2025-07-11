@@ -31,4 +31,11 @@ if(num1 === num2) {
     alert("O número maior informado foi: " + num2);
 }
 
+/*
+    Identifique possíveis falhas no algoritmo;
+    Deixe o código mais otimizável;
+    Cria uma interface mais aprimorada;
+        
+ */
+
 // .......................................................................................................10/07/2025    00:05h
