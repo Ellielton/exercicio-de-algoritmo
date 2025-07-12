@@ -2,8 +2,23 @@
 
 /* 
     inicio
+        leia: letra
+        se letra igual F então
+            escreva: "Feminino"
+        senão se letra igual M então 
+            escreva: "Masculino"
+        senão então
+            escreva: "Sevo inválido"
     fim
         
 */
+const letra = prompt("Digite qual é o seu sexo")
+if (letra.toLowerCase() === "f") {
+    alert("FEMININO")
+} else if(letra.toLowerCase() === "m") {
+    alert("MASCULINO")
+} else {
+    alert("SEXO INVÁLIDO")
+}
 
-// .......................................................................................................xx/07/2025    xx:xxh
+// .......................................................................................................12/07/2025    19:00h
