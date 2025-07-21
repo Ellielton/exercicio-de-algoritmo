@@ -1,9 +1,9 @@
 //Dia_9 - Faça um programa que leia três números e os mostreos em ordem crescente.
 /* 
     inicio
-        Leia: A 1
-        Leia: B 2
-        Leia: C 3
+        Leia: A
+        Leia: B
+        Leia: C
 
         se B > A e B < c então
             escreva: A, B, C
